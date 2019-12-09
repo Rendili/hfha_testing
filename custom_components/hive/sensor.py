@@ -22,7 +22,7 @@ FRIENDLY_NAMES = {'Heating_CurrentTemperature': "Current Temperature",
                   'HotWater_State': "Hot Water State",
                   'HotWater_Mode': "Hot Water Mode",
                   'HotWater_Boost': "Hot Water Boost",
-                  'Hub_OnlineStatus': 'Hive Hub Status',
+                  'Hub_OnlineStatus': 'Hive-US Hub Status',
                   'Hive_OutsideTemperature': 'Outside Temperature'}
 DEVICETYPE_ICONS = {'Heating_CurrentTemperature': 'mdi:thermometer',
                     'Heating_TargetTemperature': 'mdi:thermometer',
